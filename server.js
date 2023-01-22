@@ -1,8 +1,10 @@
 //Adding Server.JS
-// Requiring packages express and initializing the app 
+// Requiring packages 
+const htmlRoutes = require('./routes/htmlRoutes');
 const express = require('express');
 const path = require('path');
 const app = express();
+const apiRoutes = require('./routes/apiRoutes');
 
 //Assign a port 
 const PORT = process.env.PORT || 3001;
