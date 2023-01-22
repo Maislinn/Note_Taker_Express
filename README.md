@@ -3,11 +3,11 @@
 ## Credits
 
 ## Table of Contents
-[Installations](#instalations)
-[Description](#description)
-[Usage](#Usage)
-[Instructions](#instructions)
-[Demo](#demo)
+- [Installations](#instalations)
+- [Description](#description)
+- [Usage](#Usage)
+- [Instructions](#instructions)
+- [Demo](#demo)
 
 ## Installation
 * [Express.js](https://expressjs.com/)
